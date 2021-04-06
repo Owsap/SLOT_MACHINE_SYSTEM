@@ -1,0 +1,29 @@
+"[Slot Machine] The machine is already running.";
+"[Slot Machine] The machine is already running.";
+
+"[Slot Machine] You don't have enough money to bet.";
+"[Slot Machine] You don't have enough money to bet.";
+
+"[Slot Machine] You have won the Jackpot!";
+"[Slot Machine] You have won the Jackpot!";
+
+"%s has won the jackpot!";
+"%s has won the jackpot!";
+
+"[Slot Machine] Winnings: %lld";
+"[Slot Machine] Winnings: %lld";
+
+"[Slot Machine] Winnings: %llu";
+"[Slot Machine] Winnings: %llu";
+
+"[Slot Machine] You're carying to much gold.";
+"[Slot Machine] You're carying to much gold.";
+
+"[Slot Machine] You have received a voucher with the Jackpot value.";
+"[Slot Machine] You have received a voucher with the Jackpot value.";
+
+"[Slot Machine] A voucher with the Jackpot value was sent to your storage room.";
+"[Slot Machine] A voucher with the Jackpot value was sent to your storage room.";
+
+"[Slot Machine] Better luck next time!";
+"[Slot Machine] Better luck next time!";

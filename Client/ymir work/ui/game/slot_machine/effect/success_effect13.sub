@@ -1,0 +1,8 @@
+title subImage
+version 1.0
+image "game/slot_machine/success_effect_01.dds"
+left 0
+top 336
+right 170
+bottom 420
+

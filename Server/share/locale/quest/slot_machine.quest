@@ -1,0 +1,8 @@
+quest slot_machine begin
+	state start begin
+		when 9005.chat."Slot Machine" begin
+			setskin(NOWINDOW)
+			cmdchat("OpenSlotMachineWnd")
+		end
+	end
+end

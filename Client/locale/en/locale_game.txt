@@ -1,0 +1,7 @@
+SLOT_MACHINE_INFO_TOOLTIP	Slot Machine
+SLOT_MACHINE_INFO_TOOLTIP_1	You can bet your gold and have the chance to win
+SLOT_MACHINE_INFO_TOOLTIP_2	a lot of money! If you hit three (3) jackpot reel
+SLOT_MACHINE_INFO_TOOLTIP_3	icons you can win a huge payout amount!
+SLOT_MACHINE_INFO_TOOLTIP_4	The higher you bet, the better your payout is!
+SLOT_MACHINE_INFO_TOOLTIP_5	Good luck!
+SLOT_MACHINE_NEED_GOLD	[Slot Machine] You don't have enough money to bet.
